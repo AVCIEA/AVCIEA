@@ -2,7 +2,7 @@
 - 👀 I’m an Statistician
 - 🌱 I’m currently working on Python & Django
 - 🔭 I’m currently learning Django and trying to improve myself
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avciea&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avciea&theme=radical)
 <!--
 **AVCIEA/AVCIEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
